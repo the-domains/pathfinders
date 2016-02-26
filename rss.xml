@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pathfinders]]></title>
         <description><![CDATA[Pathfinders]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pathfinders/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 19:08:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 19:51:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pathfinders/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Matterport conversion to 2D & 3D FloorPlans]]></title>
-            <description><![CDATA[<article><h1>Matterport conversion to 2D & 3D FloorPlans</h1><p>The first market that our 3d mapping will be approaching is the Engineering community. This video is a primer for how we can create floor plans from data rich scans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7df8375adbe0ac995c1bdb7e945089c5fa008a9.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Matterport conversion to 2D & 3D FloorPlans</h1><p>The first market that our 3d mapping will be approaching is the Engineering community. This video is a primer for how we can create floor plans from data rich scans. In the description of the video (below) you will see a link to the third party provider of this add on software package.  There is also a sketchup compatible third party provider which I will post about later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7df8375adbe0ac995c1bdb7e945089c5fa008a9.jpg"></article>]]></description>
             <link>https://youtu.be/NKrjFCMYDpk</link>
             <guid isPermaLink="false">cfc164e5-dd75-404f-bf38-7941ed8d95d2</guid>
-            <pubDate>Fri, 26 Feb 2016 19:08:01 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 19:50:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
