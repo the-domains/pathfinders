@@ -1,0 +1,28 @@
+name: Pathfinders
+favicon: null
+layout_spectrum: 0.7758263032883406
+typography_spectrum: 0.62132245185785
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.36594025790691376
+  lightness: 0.9268788967747241
+  saturation: 0.6992977047339082
+  rhythmicContrast: 0.4767621960490942
+purpose: []
